@@ -98,7 +98,7 @@ install:
   - ls $HOME/caffe2/install
   - pip install "onnx-caffe2$ONNX_CAFFE2_VERSION"
   - pip install mxnet
-  - cd $HOME && git clone https://github.com/onnx/onnx-mxnet.git && cd $HOME/onnx-mxnet && python setup.py install
+  - pip install onnx-mxnet
   - cd $TRAVIS_BUILD_DIR && pip install -e .
 
 script:
