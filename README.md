@@ -1,5 +1,4 @@
 # ONNX-Chainer
-![pypi](https://img.shields.io/pypi/v/onnx-chainer.svg)
 ![Build Status](https://travis-ci.org/mingxiaoh/onnx-chainer.svg?branch=master)
 ![MIT License](https://img.shields.io/github/license/mitmul/onnx-chainer.svg)
 
